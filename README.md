@@ -1,2 +1,2 @@
-## Welcome to CoohomSim
-Please contact [sim@coohom.com](mailto:sim@coohom.com) to find more information.
+## Welcome to CoohomCloud
+Please contact [cloud@coohom.com](mailto:cloud@coohom.com) to find more information.
